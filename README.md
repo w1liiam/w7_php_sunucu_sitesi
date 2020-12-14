@@ -18,17 +18,17 @@
   <li>-Sunucudaki Oyuncu sayisini sitenin Ana ekranında yansitma..</li>
 </a>
   <li>-Admin panelinden sınırsız Bağiş Paketi ekleme.</li>
-
+</a>
   <li>-Admin panelinden tekli/toplu hesap ekleme.</li>
-
+</a>
   <li>--Toplu bağiş paketi alma ve alınan paketleri toplu indirme..</li>
-
+</a>
   <li>-7/24 online bakiye yükleme. (Shopier/Weepay entegreli)..</li>
-  
+  </a>
   <li>--Admin panelinden sınırsız banka hesabı ekleme..</li>
-   
+   </a>
   <li>-Ödeme bildirimi yapabilme, yapılan ödeme bildirimlerini onaylayabilme/reddedebilme...</li>
-
+</a>
   <li>-Admin panelinden ReCaptcha aktif/deaktif etme.i..</li>
 
   <li>Admin panelinden sınırsız sayfa ekleyebilme..</li>
