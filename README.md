@@ -2,10 +2,7 @@
 
 
 
-<div align="center">
- 
-
-</div><img height="100" src="https://i.hizliresim.com/lipqLi.png">
+<img height="100" src="https://i.hizliresim.com/lipqLi.png">
 
 
 <br />
