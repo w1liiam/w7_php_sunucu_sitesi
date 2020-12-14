@@ -16,27 +16,27 @@
   <li>-Admin panelinden sınırsız kategori ekleme.</li>
   <br> </br>
   <li>-Sunucudaki Oyuncu sayisini sitenin Ana ekranında yansitma..</li>
-    <br> </br>
+
   <li>-Admin panelinden sınırsız Bağiş Paketi ekleme.</li>
-    <br> </br>
+
   <li>-Admin panelinden tekli/toplu hesap ekleme.</li>
-    <br> </br>
+
   <li>--Toplu bağiş paketi alma ve alınan paketleri toplu indirme..</li>
-    <br> </br>
+
   <li>-7/24 online bakiye yükleme. (Shopier/Weepay entegreli)..</li>
-    <br> </br>
+  
   <li>--Admin panelinden sınırsız banka hesabı ekleme..</li>
-    <br> </br>
+   
   <li>-Ödeme bildirimi yapabilme, yapılan ödeme bildirimlerini onaylayabilme/reddedebilme...</li>
-    <br> </br>
+
   <li>-Admin panelinden ReCaptcha aktif/deaktif etme.i..</li>
-    <br> </br>
+
   <li>Admin panelinden sınırsız sayfa ekleyebilme..</li>
-    <br> </br>
+
   <li>-Siteyi ister İngilizce, ister Türkçe olarak kullanabilme...</li>
-    <br> </br>
+ 
   <li>Admin panelinden logo ve faviconu ayarlayabilme, sitenin meta tag ayarlarını değiştirebilme.</li>
-    <br> </br>
+   
   <li>-Minimum ödeme miktarını ve ödeme komisyonunu ayarlayabilme...</li>
     <br> </br>
 </ul>  
