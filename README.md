@@ -37,7 +37,6 @@
  
   <li>Admin panelinden logo ve faviconu ayarlayabilme, sitenin meta tag ayarlarını değiştirebilme.</li>
   
-   <li>admin@script.com<br/><b>Parola:</b> 123456<</li>
    
   <li>-Minimum ödeme miktarını ve ödeme komisyonunu ayarlayabilme...</li>
     <br> </br>
@@ -60,6 +59,8 @@ Dosyaları attığınızda 500 hatası verir. /install sayfasına giderek kurulu
   <li>-2-Yükleme tamamlandıktan sonra site domainin sonuna /install yazin ve o adrese gidin</li>
   <li>3- Karşiniza Yükleme Ekrani gelecek gerekli bilgileri girdikten sonra script yüklenecektir.</li>
   <li>-Not: Lütfen Dosya izinlerini yazilacak şekilde ayarlayin </li>
+  
+   <li>Admin Giriş Bilgileri : admin@script.com<br/><b>Parola:</b> 123456<</li>
   
   <li>-Kodlarin Çogu Bana Aittir İzinsiz Düzenleme Yapilmasi kesinklikle yasaktir. </li>
   
