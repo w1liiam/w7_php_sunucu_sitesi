@@ -46,7 +46,10 @@
 ### Gelişmiş Demo [Demo İçin Tikla](http://nation.cheapplay.store/) 🦾
 
 
-
+</a>
+<a href="discord.gg/8e9X5S3Pyg">
+  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
 
  <img  src="https://i.hizliresim.com/bfxKmE.png">
 
