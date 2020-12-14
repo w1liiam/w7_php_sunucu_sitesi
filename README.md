@@ -60,7 +60,7 @@ Dosyaları attığınızda 500 hatası verir. /install sayfasına giderek kurulu
   <li>3- Karşiniza Yükleme Ekrani gelecek gerekli bilgileri girdikten sonra script yüklenecektir.</li>
   <li>-Not: Lütfen Dosya izinlerini yazilacak şekilde ayarlayin </li>
   
-   <li>Admin Giriş Bilgileri : admin@script.com<br/><b>Parola:</b> 123456<</li>
+   <li>Admin Giriş Bilgileri : admin@script.com <b>Parola:</b> 123456<</li>
   
   <li>-Kodlarin Çogu Bana Aittir İzinsiz Düzenleme Yapilmasi kesinklikle yasaktir. </li>
   
