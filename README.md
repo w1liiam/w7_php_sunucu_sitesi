@@ -46,10 +46,7 @@
 ### Gelişmiş Demo [Demo İçin Tikla](http://nation.cheapplay.store/) 🦾
 
 
-</a>
-<a href="discord.gg/8e9X5S3Pyg">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
+
 
  <img  src="https://i.hizliresim.com/bfxKmE.png">
 
@@ -70,3 +67,10 @@ Dosyaları attığınızda 500 hatası verir. /install sayfasına giderek kurulu
   ![CSS3](https://img.shields.io/badge/CSS3-157286?logo=CSS3&logoColor=white&style=flat)
   ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=white&style=flat)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=Bootstrap&logoColor=white&style=flat)
+  
+    <br> </br>
+  
+  </a>
+<a href="discord.gg/8e9X5S3Pyg">
+  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
