@@ -16,7 +16,7 @@
   <li>-Admin panelinden sınırsız kategori ekleme.</li>
   <br> </br>
   <li>-Sunucudaki Oyuncu sayisini sitenin Ana ekranında yansitma..</li>
-
+</a>
   <li>-Admin panelinden sınırsız Bağiş Paketi ekleme.</li>
 
   <li>-Admin panelinden tekli/toplu hesap ekleme.</li>
