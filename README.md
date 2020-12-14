@@ -26,7 +26,7 @@
   <li>-Minimum ödeme miktarını ve ödeme komisyonunu ayarlayabilme...</li>
 </ul>  
 
-
+<li>-Kodlarin Çogu Bana Aittir İzinsiz Düzenleme Yapilmasi kesinklikle yasaktir./li>
 
 
 Dosyaları attığınızda 500 hatası verir. /install sayfasına giderek kurulum yapabilirsiniz.
