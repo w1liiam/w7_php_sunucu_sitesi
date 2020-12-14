@@ -1,6 +1,7 @@
 # RedM & Fivem sunucunuz için bağiş sistemli php web site scripti 
 <img align="right" src="https://i.hizliresim.com/lipqLi.png"/>
-
+<br />
+<br />
 -Admin panelinden sınırsız kategori ekleme.
 -Admin panelinden sınırsız hesap ekleme.
 -Admin panelinden tekli/toplu hesap ekleme.
@@ -15,3 +16,6 @@
 -Admin panelinden logo ve faviconu ayarlayabilme, sitenin meta tag ayarlarını değiştirebilme.
 -Minimum ödeme miktarını ve ödeme komisyonunu ayarlayabilme.
 -Ve çok daha fazlası…
+
+
+Dosyaları attığınızda 500 hatası verir. /install sayfasına giderek kurulum yapabilirsiniz.
