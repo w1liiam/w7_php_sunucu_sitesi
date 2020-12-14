@@ -36,6 +36,8 @@
   <li>-Siteyi ister İngilizce, ister Türkçe olarak kullanabilme...</li>
  
   <li>Admin panelinden logo ve faviconu ayarlayabilme, sitenin meta tag ayarlarını değiştirebilme.</li>
+  
+   <li>admin@script.com<br/><b>Parola:</b> 123456<</li>
    
   <li>-Minimum ödeme miktarını ve ödeme komisyonunu ayarlayabilme...</li>
     <br> </br>
