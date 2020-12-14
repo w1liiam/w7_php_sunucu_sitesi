@@ -10,10 +10,18 @@
 
 <br />
 <br />
--Admin panelinden sınırsız kategori ekleme.
--Admin panelinden sınırsız hesap ekleme.
--Admin panelinden tekli/toplu hesap ekleme.
--Toplu bağiş paketi alma ve alınan paketleri toplu indirme.
+
+
+
+<ul>
+  <li>-Admin panelinden sınırsız kategori ekleme./li>
+  <li>-Admin panelinden sınırsız Bağiş Paketi ekleme.</li>
+  <li>-Admin panelinden tekli/toplu hesap ekleme.</li>,
+  <li>--Toplu bağiş paketi alma ve alınan paketleri toplu indirme..</li>
+</ul>  
+
+
+
 -Destek bileti sistemi.
 -7/24 online bakiye yükleme. (Shopier/Weepay entegreli)
 -Admin panelinden sınırsız banka hesabı ekleme.
