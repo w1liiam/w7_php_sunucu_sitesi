@@ -26,10 +26,15 @@
   <li>-Minimum ödeme miktarını ve ödeme komisyonunu ayarlayabilme...</li>
 </ul>  
 
-<li>-Kodlarin Çogu Bana Aittir İzinsiz Düzenleme Yapilmasi kesinklikle yasaktir./li>
+<li>-Kodlarin Çogu Bana Aittir İzinsiz Düzenleme Yapilmasi kesinklikle yasaktir. </li>
 
 
 Dosyaları attığınızda 500 hatası verir. /install sayfasına giderek kurulum yapabilirsiniz.
+
+
+
+
+<img  src="https://i.hizliresim.com/bfxKmE.png">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=flat)
   ![CSS3](https://img.shields.io/badge/CSS3-157286?logo=CSS3&logoColor=white&style=flat)
