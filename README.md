@@ -46,7 +46,7 @@
 ### Gelişmiş Demo [Demo İçin Tikla](http://nation.cheapplay.store/) 🦾
 
 
-
+!ssss
 
  <img  src="https://i.hizliresim.com/bfxKmE.png">
 
